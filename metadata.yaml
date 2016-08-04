@@ -1,0 +1,32 @@
+_repo: The-New-Magdalen_1623
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Mercy, a nurse in the Franco-Prussian War, has her post taken over by
+  the Germans. Mercy meets the emergency with great skill and aplomb, comforting the
+  wounded soldiers and ensuring their safe passage. Her bravery is set in opposition
+  to the cowardly surgeon and a timid English gentlewoman on her way to England to
+  claim an inheritance from relatives who have never before met her.
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women ex-convicts -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Impostors and imposture -- Fiction'
+- GITenberg
+title: The New Magdalen
+url: http://www.gutenberg.org/ebooks/1623
