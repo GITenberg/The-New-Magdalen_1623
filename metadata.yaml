@@ -1,5 +1,8 @@
 _repo: The-New-Magdalen_1623
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -14,6 +17,8 @@ description: Mercy, a nurse in the Franco-Prussian War, has her post taken over 
   wounded soldiers and ensuring their safe passage. Her bravery is set in opposition
   to the cowardly surgeon and a timid English gentlewoman on her way to England to
   claim an inheritance from relatives who have never before met her.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1623#The-New-Magdalen
 gutenberg_issued: '1999-02-01'
 gutenberg_type: Text
 identifiers:
